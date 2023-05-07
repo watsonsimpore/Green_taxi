@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140725205296",
+    "project_id": "e-transport-6f9c2",
+    "storage_bucket": "e-transport-6f9c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140725205296:android:4d09e2f6da5e400557b0f5",
+        "android_client_info": {
+          "package_name": "com.dotcoder.green_taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140725205296-kai043cc0t2io5qbjvdiqbg1u6022erl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6FKsu6LKYwriuen60n6AEXHb8CY1mk0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140725205296-kai043cc0t2io5qbjvdiqbg1u6022erl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
